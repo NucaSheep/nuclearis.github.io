@@ -1,0 +1,8 @@
+<div class="content">
+        <h1 class="heading">
+            <span class="small">welcome to the Nuclearis network</span>
+            RAGE AGAINST
+            <span class="no-fill"><br>THE SYSTEM!!</span>
+        </h1>
+        <a href="/editor" class="btn">Write an article</a>
+</div>
